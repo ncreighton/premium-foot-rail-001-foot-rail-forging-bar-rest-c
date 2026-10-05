@@ -1,0 +1,2 @@
+# premium-foot-rail-001-foot-rail-forging-bar-rest-c
+Tired of misplacing custom foot rail measurements and forging notes? Your craft deserves a single source of truth.  This Notion template centralizes every foot rail and bar rest project, from initial design sketches to final fabrication specs. It eliminates scattered sticky notes and forgotten client preferences, giving you a streamlined workflow s
